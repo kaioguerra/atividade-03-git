@@ -1,1 +1,3 @@
 arquivo pasta docs
+
+Texto alterado localmente na branch minha-feature
